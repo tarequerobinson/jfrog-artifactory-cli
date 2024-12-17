@@ -4,7 +4,7 @@
 - Ensure Node.js is installed on your system
 
 ## Steps
-To install the CLI tool, run the following command:
+To install the packages CLI tool, run the following command in the root of the project:
 
 ```bash
 npm install
@@ -12,7 +12,7 @@ npm install
 
 # Usage
 Starting the CLI Tool
-Open the project in your terminal and start the CLI:
+While the project is opened in your terminal, start the CLI by running:
 
 ```bash
 node main/cli.js
